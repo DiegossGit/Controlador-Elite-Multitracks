@@ -1,37 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<index version="5">
+<index version="1">
   <file>
-    <name>Diegoss/Controlador Elite Multitracks.lua</name>
+    <name>Controlador Elite Multitracks.lua</name>
     <type>script</type>
     <version>1.0</version>
     <author>Diegoss</author>
     <description>Interface de controle de multitracks no REAPER com transporte, pads e transposição.</description>
-    <provides>
-      [main] Controlador Elite Multitracks.lua
-      [main] atalho_next_song.lua
-      [main] atalho_prev_song.lua
-      [main] atalho_play_stop.lua
-      [main] atalho_stop_pads.lua
-      [main] atalho_toggle_loop.lua
-      [main] atalho_toggle_autoplay.lua
-      [main] atalho_pitch_mais.lua
-      [main] atalho_pitch_menos.lua
-      [main] atalho_reset_tonalidade.lua
-      [main] atalho_toggle_Seguir_tonalidade.lua
-      [main] atalho_cancelar_pulo_regiao.lua
-      [main] atalho_controlar_volume_pads_midi.lua
-      [main] atalho_pad_A.lua
-      [main] atalho_pad_A#.lua
-      [main] atalho_pad_B.lua
-      [main] atalho_pad_C.lua
-      [main] atalho_pad_C#.lua
-      [main] atalho_pad_D.lua
-      [main] atalho_pad_D#.lua
-      [main] atalho_pad_E.lua
-      [main] atalho_pad_F.lua
-      [main] atalho_pad_F#.lua
-      [main] atalho_pad_G.lua
-      [main] atalho_pad_G#.lua
-    </provides>
   </file>
+
+  <!-- Atalhos -->
+  <file>
+    <name>atalho_next_song.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_prev_song.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_play_stop.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_stop_pads.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_toggle_loop.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_toggle_autoplay.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_pitch_mais.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_pitch_menos.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_reset_tonalidade.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_toggle_Seguir_tonalidade.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_cancelar_pulo_regiao.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <file>
+    <name>atalho_controlar_volume_pads_midi.lua</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Diegoss</author>
+  </file>
+
+  <!-- Pads -->
+  <file><name>atalho_pad_A.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_A#.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_B.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_C.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_C#.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_D.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_D#.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_E.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_F.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_F#.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_G.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pad_G#.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
 </index>
