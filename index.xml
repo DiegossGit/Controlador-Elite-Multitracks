@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index version="1">
+  <repository>Controlador Elite Multitracks</repository>
+
   <file>
     <name>Controlador Elite Multitracks.lua</name>
     <type>script</type>
@@ -9,89 +11,18 @@
   </file>
 
   <!-- Atalhos -->
-  <file>
-    <name>atalho_next_song.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_prev_song.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_play_stop.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_stop_pads.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_toggle_loop.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_toggle_autoplay.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_pitch_mais.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_pitch_menos.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_reset_tonalidade.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_toggle_Seguir_tonalidade.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_cancelar_pulo_regiao.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
-
-  <file>
-    <name>atalho_controlar_volume_pads_midi.lua</name>
-    <type>script</type>
-    <version>1.0</version>
-    <author>Diegoss</author>
-  </file>
+  <file><name>atalho_next_song.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_prev_song.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_play_stop.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_stop_pads.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_toggle_loop.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_toggle_autoplay.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pitch_mais.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_pitch_menos.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_reset_tonalidade.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_toggle_Seguir_tonalidade.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_cancelar_pulo_regiao.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
+  <file><name>atalho_controlar_volume_pads_midi.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
 
   <!-- Pads -->
   <file><name>atalho_pad_A.lua</name><type>script</type><version>1.0</version><author>Diegoss</author></file>
