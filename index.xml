@@ -3,9 +3,9 @@
   <file>
     <name>Diegoss/Controlador Elite Multitracks.lua</name>
     <type>script</type>
-    <author>Diegoss</author>
     <version>1.0</version>
-    <description>Interface gráfica para controle de multitracks no REAPER com transporte, pads e outras funções.</description>
+    <author>Diegoss</author>
+    <description>Interface de controle de multitracks no REAPER com transporte, pads e transposição.</description>
     <provides>
       [main] Controlador Elite Multitracks.lua
       [main] atalho_next_song.lua
