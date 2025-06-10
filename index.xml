@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reapack extension="5">
+<index version="5">
   <repository name="Controlador Elite Multitracks"
               type="git"
               url="https://github.com/DiegossGit/Controlador-Elite-Multitracks"/>
 
-  <!-- Script principal -->
-  <package>
+  <addon>
     <name>Controlador Elite Multitracks</name>
     <author>Diegoss</author>
     <version>1.0</version>
-    <link>https://github.com/DiegossGit/Controlador-Elite-Multitracks</link>
     <description>Interface gráfica para controle de multitracks no REAPER, com botões de transporte, pads, loop, entre outros.</description>
     <file>Controlador Elite Multitracks.lua</file>
     <category>Transport</category>
-  </package>
+  </addon>
 
   <!-- Atalhos dos Pads -->
-  <package>
+  <addon>
     <name>Controlador: Atalhos dos Pads</name>
     <author>Diegoss</author>
     <version>1.0</version>
+    <category>Transport</category>
     <file>atalho_pad_A.lua</file>
     <file>atalho_pad_A#.lua</file>
     <file>atalho_pad_B.lua</file>
@@ -32,14 +31,14 @@
     <file>atalho_pad_F#.lua</file>
     <file>atalho_pad_G.lua</file>
     <file>atalho_pad_G#.lua</file>
-    <category>Transport</category>
-  </package>
+  </addon>
 
   <!-- Atalhos Gerais -->
-  <package>
+  <addon>
     <name>Controlador: Atalhos Gerais</name>
     <author>Diegoss</author>
     <version>1.0</version>
+    <category>Transport</category>
     <file>atalho_next_song.lua</file>
     <file>atalho_prev_song.lua</file>
     <file>atalho_play_stop.lua</file>
@@ -52,6 +51,5 @@
     <file>atalho_toggle_Seguir_tonalidade.lua</file>
     <file>atalho_cancelar_pulo_regiao.lua</file>
     <file>atalho_controlar_volume_pads_midi.lua</file>
-    <category>Transport</category>
-  </package>
-</reapack>
+  </addon>
+</index>
