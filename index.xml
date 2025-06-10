@@ -15,7 +15,7 @@
     <category>Transport</category>
   </package>
 
-  <!-- Atalhos -->
+  <!-- Atalhos dos Pads -->
   <package>
     <name>Controlador: Atalhos dos Pads</name>
     <author>Diegoss</author>
@@ -35,6 +35,7 @@
     <category>Transport</category>
   </package>
 
+  <!-- Atalhos Gerais -->
   <package>
     <name>Controlador: Atalhos Gerais</name>
     <author>Diegoss</author>
