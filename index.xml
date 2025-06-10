@@ -16,63 +16,162 @@
   <!-- ====================================================================== -->
   <!-- Scripts de Atalho -->
   <!-- ====================================================================== -->
-  <category name="Painel Elite Multitracks/Atalhos">
+  <category name="Painel Elite Multitracks/ Clique no Ícone de Lápis para Editar:**
+No canto superior direito do quadro do arquivo, há um ícone de lápis. Clique nele.
+
+**3. Apague TODO o Conteúdo:**
+Selecione todo o texto que está na caixa de edição (Ctrl+A) e delete tudo.
+
+**4. Cole o Código Corrigido Abaixo:**Atalhos">
     <!-- Playback -->
     <script name="Atalho: Play/Stop" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_play_stop.lua</source>
+      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_play_stop.
+Copie o bloco de código inteiro abaixo e cole na caixa de edição vazia.
+
+```xml
+<?xml version="1lua</source>
     </script>
-    <script name="Atalho: Toggle Loop" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_toggle_loop.lua</source>
+    <script name="Atalho: Toggle Loop" version="1.0" encoding="UTF-8"?>
+<reapack-index name="Controlador Elite Multitracks.0" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/ (Pacote do Diego)" desc="Painel completo para controle de multitracks e PADs, desenvolvido por DiegossGitDiegossGit/Controlador-Elite-Multitracks/main/atalho_toggle_loop.lua com auxílio do ChatGPT.">
+
+  <!-- ====================================================================== -->
+  <!-- Script Principal do Pain</source>
     </script>
-    <script name="Atalho: Música Anterior" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_prev_song.lua</source>
+    <script name="Atalho: Música Anterior" version="1.el -->
+  <!-- ====================================================================== -->
+  <category name="Painel Elite Multitracks0" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/Die">
+    <script name="Painel de Controle Total (Elite Multitracks)" version="15.4gossGit/Controlador-Elite-Multitracks/main/atalho_prev_song.lua</.10" author="DiegossGit">
+      <description><![CDATA[
+        Painel desource>
     </script>
-    <script name="Atalho: Próxima Música" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_next_song.lua</source>
+    <script name="Atalho: Próxima Música" version="1 controle com feedback visual e controle de regiões com fade e loop.
+      ]]></description>
+      <source main="main">https.0" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/DiegossGit/Controlador-Elite-Multitracks/main/atalho_next_song.luaControlador%20Elite%20Multitracks.lua</source>
     </script>
-    <script name="Atalho: Toggle Auto Play" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_toggle_autoplay.lua</source>
+  </source>
+    </script>
+    <script name="Atalho: Toggle Auto Play" version="1</category>
+
+  <!-- ====================================================================== -->
+  <!-- Scripts de Atalho -->
+  <!--.0" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/ ====================================================================== -->
+  <category name="Painel Elite Multitracks/Atalhos">DiegossGit/Controlador-Elite-Multitracks/main/atalho_toggle_autoplay.lua
+    <!-- Playback -->
+    <script name="Atalho: Play/Stop" version="1.0</source>
     </script>
     
     <!-- Pitch -->
-    <script name="Atalho: Pitch +" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pitch_mais.lua</source>
+    <script name="Atalho: Pitch +"" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/Dieg version="1.0" author="DiegossGit">
+      <source>https://raw.githubusercontentossGit/Controlador-Elite-Multitracks/main/atalho_play_stop.lua</source.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pitch_>
     </script>
-    <script name="Atalho: Pitch -" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pitch_menos.lua</source>
+    <script name="Atalho: Toggle Loop" version="1.0"mais.lua</source>
     </script>
-    <script name="Atalho: Resetar Tonalidade (Pitch)" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_reset_tonalidade.lua</source>
+    <script name="Atalho: Pitch -" version=" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/Diegoss1.0" author="DiegossGit">
+      <source>https://raw.githubusercontent.comGit/Controlador-Elite-Multitracks/main/atalho_toggle_loop.lua</source>/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pitch_menos.
+    </script>
+    <script name="Atalho: Música Anterior" version="1.0" authorlua</source>
+    </script>
+    <script name="Atalho: Resetar Tonalidade (="DiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGitPitch)" version="1.0" author="DiegossGit">
+      <source>https://raw./Controlador-Elite-Multitracks/main/atalho_prev_song.lua</source>
+githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_    </script>
+    <script name="Atalho: Próxima Música" version="1.0"reset_tonalidade.lua</source>
     </script>
     
     <!-- PADs -->
-    <script name="Atalho: Toggle Seguir Tonalidade" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_toggle_Seguir_tonalidade.lua</source>
+ author="DiegossGit">
+      <source>https://raw.githubusercontent.com/Diegoss    <script name="Atalho: Toggle Seguir Tonalidade" version="1.0" author="DieGit/Controlador-Elite-Multitracks/main/atalho_next_song.lua</source>gossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/Control
     </script>
-    <script name="Atalho: STOP PADS" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_stop_pads.lua</source>
+    <script name="Atalho: Toggle Auto Play" version="1.0"ador-Elite-Multitracks/main/atalho_toggle_Seguir_tonalidade.lua</ author="DiegossGit">
+      <source>https://raw.githubusercontent.com/Diegosssource>
     </script>
-    <script name="Atalho: Controle de Volume dos PADs (MIDI CC)" version="1.1" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_controlar_volume_pads_midi.lua</source>
+    <script name="Atalho: STOP PADS" version="1.Git/Controlador-Elite-Multitracks/main/atalho_toggle_autoplay.lua</source>0" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/Die
     </script>
     
-    <!-- PADs Individuais -->
-    <script name="Atalho: PAD C" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_C.lua</source>
+    <!-- Pitch -->
+    <script name="Atalho: Pitch +" version="1.gossGit/Controlador-Elite-Multitracks/main/atalho_stop_pads.lua</0" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/Diesource>
     </script>
-    <script name="Atalho: PAD C#" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_C%23.lua</source>
+    <script name="Atalho: Controle de Volume dos PADs (MIDIgossGit/Controlador-Elite-Multitracks/main/atalho_pitch_mais.lua</ CC)" version="1.1" author="DiegossGit">
+      <source>https://raw.source>
     </script>
-    <script name="Atalho: PAD D" version="1.0" author="DiegossGit">
+    <script name="Atalho: Pitch -" version="1.0"githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_ author="DiegossGit">
+      <source>https://raw.githubusercontent.com/Diegosscontrolar_volume_pads_midi.lua</source>
+    </script>
+    
+    <!-- PADGit/Controlador-Elite-Multitracks/main/atalho_pitch_menos.lua</source>s Individuais -->
+    <script name="Atalho: PAD C" version="1.0" author="
+    </script>
+    <script name="Atalho: Resetar Tonalidade (Pitch)" version="DiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/1.0" author="DiegossGit">
+      <source>https://raw.githubusercontent.comControlador-Elite-Multitracks/main/atalho_pad_C.lua</source>
+    </script>
+    <script name="Atalho: PAD C#" version="1.0" author="Die/DiegossGit/Controlador-Elite-Multitracks/main/atalho_reset_tonalidade.lua</source>
+    </script>
+    
+    <!-- PADs -->
+    <script namegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/Control="Atalho: Toggle Seguir Tonalidade" version="1.0" author="DiegossGit">ador-Elite-Multitracks/main/atalho_pad_C%23.lua</source>
+      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-
+    </script>
+    <script name="Atalho: PAD D" version="1.0" authorMultitracks/main/atalho_toggle_Seguir_tonalidade.lua</source>
+    ="DiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit</script>
+    <script name="Atalho: STOP PADS" version="1.0" author="/Controlador-Elite-Multitracks/main/atalho_pad_D.lua</source>
+DiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/    </script>
+    <script name="Atalho: PAD D#" version="1.0" author="Controlador-Elite-Multitracks/main/atalho_stop_pads.lua</source>
+    DiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/</script>
+    <script name="Atalho: Controle de Volume dos PADs (MIDI CC)" version="Controlador-Elite-Multitracks/main/atalho_pad_D%23.lua</source1.1" author="DiegossGit">
+      <source>https://raw.githubusercontent.com>
+    </script>
+    <script name="Atalho: PAD E" version="1.0" author/DiegossGit/Controlador-Elite-Multitracks/main/atalho_controlar_volume="DiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit_pads_midi.lua</source>
+    </script>
+    
+    <!-- PADs Individuais -->/Controlador-Elite-Multitracks/main/atalho_pad_E.lua</source>
+
+    <script name="Atalho: PAD C" version="1.0" author="DiegossGit    </script>
+    <script name="Atalho: PAD F" version="1.0" author="">
+      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-EliteDiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/-Multitracks/main/atalho_pad_C.lua</source>
+    </script>
+Controlador-Elite-Multitracks/main/atalho_pad_F.lua</source>
+        <script name="Atalho: PAD C#" version="1.0" author="DiegossGit"></script>
+    <script name="Atalho: PAD F#" version="1.0" author="Die
+      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-gossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_F%23.lua</source>Multitracks/main/atalho_pad_C%23.lua</source>
+    </script>
+    <script name="Atalho: PAD D" version="1.0" author="Diegoss
+    </script>
+    <script name="Atalho: PAD G" version="1.0" authorGit">
       <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_D.lua</source>
     </script>
-    <script name="Atalho: PAD D#" version="1.0" author="DiegossGit">
+    <script name="Atalho: PAD D#" version="1.0" author="DiegossGit="DiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_G.lua</source>
+    </script>
+    <script name="Atalho: PAD G#" version="1.0" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_G%23.lua</source">
       <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_D%23.lua</source>
     </script>
     <script name="Atalho: PAD E" version="1.0" author="DiegossGit">
       <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_E.lua</source>
     </script>
-    <script name="Atalho: PAD F" version="1.0" author="DiegossGit">
+    <script name="Atalho: PAD F" version="1.0" author="Diegoss>
+    </script>
+    <script name="Atalho: PAD A" version="1.0" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_A.lua</source>
+    </script>
+    <script name="Atalho: PAD A#" version="1.0" authorGit">
       <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_F.lua</source>
     </script>
     <script name="Atalho: PAD F#" version="1.0" author="DiegossGit">
@@ -82,12 +181,7 @@
       <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_G.lua</source>
     </script>
     <script name="Atalho: PAD G#" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_G%23.lua</source>
-    </script>
-    <script name="Atalho: PAD A" version="1.0" author="DiegossGit">
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_A.lua</source>
-    </script>
-    <script name="Atalho: PAD A#" version="1.0" author="DiegossGit">
+      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-="DiegossGit">
       <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/atalho_pad_A%23.lua</source>
     </script>
     <script name="Atalho: PAD B" version="1.0" author="DiegossGit">
