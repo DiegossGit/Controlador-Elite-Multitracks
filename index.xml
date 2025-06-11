@@ -3,7 +3,7 @@
   <category name="Controlador Elite Multitracks">
     <script name="Controlador Elite Multitracks" version="2025.06.10" author="DiegossGit">
       <description><![CDATA[Script principal do Controlador Elite Multitracks.]]></description>
-      <source main="true">https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/Controlador%20Elite%2015.4.10.lua</source>
+      <source main="true">https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/Controlador%20Elite%20Multitracks.lua</source>
     </script>
     <script name="Atalho: Cancelar Pulo de Região" version="2025.06.10" author="DiegossGit">
       <description><![CDATA[Cancela o pulo para a próxima região.]]></description>
