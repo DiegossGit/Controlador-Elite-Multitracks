@@ -43,7 +43,7 @@
     </script>
     <script name="Atalho: Ativar/Desativar Seguir Tonalidade" version="2025.06.10" author="DiegossGit">
       <description><![CDATA[Ativa ou desativa a função de seguir a tonalidade.]]></description>
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_toggle_Seguir_tonalidade.lua</source>
+      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_toggle_seguir_tonalidade.lua</source>
     </script>
     <script name="Atalho: Ativar/Desativar Autoloop" version="2025.06.10" author="DiegossGit">
       <description><![CDATA[Ativa ou desativa o loop automático da seção.]]></description>
@@ -79,7 +79,7 @@
     </script>
     <script name="Atalho: Pad D#" version="2025.06.06" author="DiegossGit">
       <description><![CDATA[Dispara o Pad D#.]]></description>
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_D%23.lua</source>
+      <source>https.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_D%23.lua</source>
     </script>
     <script name="Atalho: Pad E" version="2025.06.06" author="DiegossGit">
       <description><![CDATA[Dispara o Pad E.]]></description>
