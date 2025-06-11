@@ -1,130 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<reapack name="Controlador Elite Multitracks" type="repository" author="DiegossGit">
-  <category name="Controlador Elite Multitracks">
-    <script name="Controlador Elite Multitracks">
-      <description><![CDATA[Script principal do Controlador Elite Multitracks.]]></description>
-      <version name="1.2.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source main="true">https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/Controlador%20Elite%20Multitracks.lua</source>
-    </script>
-    <script name="Atalho: Cancelar Pulo de Região">
-      <description><![CDATA[Cancela o pulo para a próxima região.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_cancelar_pulo_regiao.lua</source>
-    </script>
-    <script name="Atalho: Controlar Volume dos Pads via MIDI">
-      <description><![CDATA[Controla o volume dos pads usando um controlador MIDI.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_controlar_volume_pads_midi.lua</source>
-    </script>
-    <script name="Atalho: Próxima Música (Next Song)">
-      <description><![CDATA[Pula para a próxima música na lista de reprodução.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_next_song.lua</source>
-    </script>
-    <script name="Atalho: Música Anterior (Prev Song)">
-      <description><![CDATA[Volta para a música anterior na lista de reprodução.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_prev_song.lua</source>
-    </script>
-    <script name="Atalho: Play/Stop">
-      <description><![CDATA[Inicia ou para a reprodução.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_play_stop.lua</source>
-    </script>
-    <script name="Atalho: Parar Pads (Stop Pads)">
-      <description><![CDATA[Para a reprodução de todos os pads.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_stop_pads.lua</source>
-    </script>
-    <script name="Atalho: Aumentar Pitch">
-      <description><![CDATA[Aumenta o pitch (afinação) em um semitom.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pitch_mais.lua</source>
-    </script>
-    <script name="Atalho: Diminuir Pitch">
-      <description><![CDATA[Diminui o pitch (afinação) em um semitom.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pitch_menos.lua</source>
-    </script>
-    <script name="Atalho: Resetar Tonalidade">
-      <description><![CDATA[Reseta o pitch para o valor original.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_reset_tonalidade.lua</source>
-    </script>
-    <script name="Atalho: Ativar/Desativar Seguir Tonalidade">
-      <description><![CDATA[Ativa ou desativa a função de seguir a tonalidade.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_toggle_seguir_tonalidade.lua</source>
-    </script>
-    <script name="Atalho: Ativar/Desativar Autoloop">
-      <description><![CDATA[Ativa ou desativa o loop automático da seção.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_toggle_autoloop.lua</source>
-    </script>
-    <script name="Atalho: Ativar/Desativar Loop">
-      <description><![CDATA[Ativa ou desativa o loop da reprodução.]]></description>
-      <version name="1.1.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_toggle_loop.lua</source>
-    </script>
-    <script name="Atalho: Pad A">
-      <description><![CDATA[Dispara o Pad A.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_A.lua</source>
-    </script>
-    <script name="Atalho: Pad A#">
-      <description><![CDATA[Dispara o Pad A#.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_A%23.lua</source>
-    </script>
-    <script name="Atalho: Pad B">
-      <description><![CDATA[Dispara o Pad B.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_B.lua</source>
-    </script>
-    <script name="Atalho: Pad C">
-      <description><![CDATA[Dispara o Pad C.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_C.lua</source>
-    </script>
-    <script name="Atalho: Pad C#">
-      <description><![CDATA[Dispara o Pad C#.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_C%23.lua</source>
-    </script>
-    <script name="Atalho: Pad D">
-      <description><![CDATA[Dispara o Pad D.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_D.lua</source>
-    </script>
-    <script name="Atalho: Pad D#">
-      <description><![CDATA[Dispara o Pad D#.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_D%23.lua</source>
-    </script>
-    <script name="Atalho: Pad E">
-      <description><![CDATA[Dispara o Pad E.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_E.lua</source>
-    </script>
-    <script name="Atalho: Pad F">
-      <description><![CDATA[Dispara o Pad F.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_F.lua</source>
-    </script>
-    <script name="Atalho: Pad F#">
-      <description><![CDATA[Dispara o Pad F#.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_F%23.lua</source>
-    </script>
-    <script name="Atalho: Pad G">
-      <description><![CDATA[Dispara o Pad G.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_G.lua</source>
-    </script>
-    <script name="Atalho: Pad G#">
-      <description><![CDATA[Dispara o Pad G#.]]></description>
-      <version name="1.0.0" author="DiegossGit" time="2025-06-11T12:50:00Z" />
-      <source>https://raw.githubusercontent.com/DiegossGit/Controlador-Elite-Multitracks/main/Controlador%20Elite%20Multitracks/atalho_pad_G%23.lua</source>
-    </script>
+<index version="1" name="Controlador Elite Multitracks" commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1">
+  <category name="Example">
+    <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Packages may also include additional files specified using the @provides tag.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This text is the documentation shown when using ReaPack's "About this package" feature. {\field{\*\fldinst{HYPERLINK "https://commonmark.org/"}}{\fldrslt{\ul
+Markdown
+}}}
+ {\i formatting} is supported.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
+        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
+      </version>
+    </reapack>
   </category>
-</reapack>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaPack Repository Template\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A template for GitHub-hosted ReaPack repositories with automated {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index"}}{\fldrslt{\ul
+reapack-index
+}}}
+ running from GitHub Actions.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Replace the name of the repository in {\field{\*\fldinst{HYPERLINK "/index.xml"}}{\fldrslt{\ul
+index.xml
+}}}
+ when using this template. This will be the name shown in ReaPack.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 <index version="1" name="Name of your repository here">\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Replace the contents of this file ({\field{\*\fldinst{HYPERLINK "/README.md"}}{\fldrslt{\ul
+README.md
+}}}
+). This will be the text shown when using ReaPack's "About this repository" feature.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 reapack-index looks for package files in subfolders. The folder tree represents the package categories shown in ReaPack.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Each package file is expected to begin with a metadata header. See {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation"}}{\fldrslt{\ul
+Packaging Documentation
+}}}
+ on reapack-index's wiki.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The URL to import in ReaPack is {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-repository-template/raw/master/index.xml"}}{\fldrslt{\ul
+https://github.com/{\f1 <your username>}/{\f1 <repository name>}/raw/master/index.xml
+}}}
+.\par}
+}
+]]></description>
+  </metadata>
+</index>
